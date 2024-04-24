@@ -1,2 +1,3 @@
 # game
-stone paper scissor game
+stone paper scissor game,
+with help of html css javascript
